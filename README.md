@@ -1,2 +1,13 @@
-# my-coding-journey
-my coding journey - c , c++ , python , java ,  HTML , and data structures , coding practice and projects , code collection , CSE programming practice 
+# Sandhya Coding Journey
+
+Welcome to my coding journey!
+
+This repository contains my practice programs and projects in:
+- C
+- C++
+- Python
+- Java
+- HTML
+- Data Structures
+
+I will keep updating this repository as I learn and build new programs.
