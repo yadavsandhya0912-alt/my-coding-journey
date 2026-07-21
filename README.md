@@ -1,13 +1,6 @@
-# Sandhya Coding Journey
+Hi, I'm sandhya yadav 
 
 Welcome to my coding journey!
 
-This repository contains my practice programs and projects in:
-- C
-- C++
-- Python
-- Java
-- HTML
-- Data Structures
+name: Sandhya yadav B.tech CSE(AI)student🎓- Learning C Programming-🐍 Learning git and github-🧑‍💻 Learning (DSA)-💻 Learning python-📕
 
-I will keep updating this repository as I learn and build new programs.
